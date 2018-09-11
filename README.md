@@ -10,8 +10,6 @@ git push -u origin master
 
 # 이것이 자바다 개인 학습
 
-## 목차
-
 - [CHAPTER-01-자바-시작하기](/java_study/chapter01)
 - [CHAPTER-02-변수와-타입](/java_study/chapter02)
 - [CHAPTER-03-연산자](/java_study/chapter03)
@@ -20,9 +18,10 @@ git push -u origin master
 
 
 
+
+
 # 프로그래머스 문제 풀이
 
-## 목차
-
 - [Level1](/programmers_algorithm/Level1)
+- [Level2](/programmers_algorithm/Level2)
 
