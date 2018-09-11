@@ -12,11 +12,11 @@ git push -u origin master
 
 ## 목차
 
-- [CHAPTER-01-자바-시작하기](/java_study/chapter01/chapter01.md)
-- [CHAPTER-02-변수와-타입](/java_study/chapter02/chapter02.md)
-- [CHAPTER-03-연산자](/java_study/chapter03/chapter03.md)
-- [CHAPTER-04-조건문과-반복문](/java_study/chapter04/chapter04.md)
-- [CHAPTER-05-참조-타입](/java_study/chapter05/chapter05.md)
+- [CHAPTER-01-자바-시작하기](/java_study/chapter01)
+- [CHAPTER-02-변수와-타입](/java_study/chapter02)
+- [CHAPTER-03-연산자](/java_study/chapter03)
+- [CHAPTER-04-조건문과-반복문](/java_study/chapter04)
+- [CHAPTER-05-참조-타입](/java_study/chapter05)
 
 
 
