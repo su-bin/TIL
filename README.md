@@ -8,7 +8,15 @@ git push -u origin master
 
 
 
+# 포트폴리오
+
+- [](/java_study/chapter01)
+
+
+
+
 # 이것이 자바다 개인 학습
+기본을 다시한번 정리하면서 복습합니다
 
 - [CHAPTER-01-자바-시작하기](/java_study/chapter01)
 - [CHAPTER-02-변수와-타입](/java_study/chapter02)
@@ -24,4 +32,3 @@ git push -u origin master
 
 - [Level1](/programmers_algorithm/Level1)
 - [Level2](/programmers_algorithm/Level2)
-
