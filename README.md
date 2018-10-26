@@ -10,7 +10,7 @@ git push -u origin master
 
 # 포트폴리오
 
-- [portfolio](/portfolio)
+- [portfolio](/portfolio/portfolio.pdf)
 
 
 
