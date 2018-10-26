@@ -10,7 +10,7 @@ git push -u origin master
 
 # 포트폴리오
 
-- [](/java_study/chapter01)
+- [portfolio](/portfolio)
 
 
 
@@ -23,8 +23,6 @@ git push -u origin master
 - [CHAPTER-03-연산자](/java_study/chapter03)
 - [CHAPTER-04-조건문과-반복문](/java_study/chapter04)
 - [CHAPTER-05-참조-타입](/java_study/chapter05)
-
-
 
 
 
