@@ -3,7 +3,8 @@
 
 - [portfolio](/portfolio/portfolio.pdf)
 
-
+# 와이즈만영재학원 수업자료
+- [스크래치](/scratch)
 
 
 # 이것이 자바다 개인 학습
