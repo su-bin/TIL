@@ -3,7 +3,7 @@
 
 - [portfolio](/portfolio/portfolio.pdf)
 
-# 와이즈만영재학원 수업자료
+# 와이즈만영재 수업자료
 - [스크래치](/scratch)
 
 
