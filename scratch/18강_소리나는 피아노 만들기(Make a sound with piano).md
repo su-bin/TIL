@@ -22,7 +22,7 @@
 
 ![](https://firebasestorage.googleapis.com/v0/b/realcoding-4ca98.appspot.com/o/img%2Fslide%2F784%2Fid-11.png?alt=media&token=01fae495-8834-4ad1-825e-71143a0fd4ef)
 
-- [18강 재료](/scratch/18강 소리나는 피아노 만들기 재료.zip)
+- [18강 재료](/scratch/18강_소리나는_피아노_만들기_재료.zip)
 
 [건반 알아보기]
 
