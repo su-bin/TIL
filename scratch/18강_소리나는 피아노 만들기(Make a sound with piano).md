@@ -1,4 +1,6 @@
 > [참조링크](https://scratch.mit.edu/projects/173997067/)
+>
+> 스크래치2.0과 스크래치3.0 beta (scratch3.0 beta)를 사용하여 제작한 자료입니다
 
 
 
@@ -27,6 +29,8 @@
 [건반 알아보기]
 
 ![](./resources/18_1.jpg)
+
+
 
 ## 재료블록
 
@@ -108,11 +112,74 @@
 
 ## 프로젝트 만들기
 
-1. 새로운 프로젝트 만들기
-2. 배경 바꾸기
-3. 스프라이트 만들기
-4. 스프라이트 이름 지정하기
-5. 스프라이트 동작 지정하기
+### 새로운 프로젝트 만들기
+
+![](./resources/new_project.png)
+
+- 새로운 프로젝트를 생성합니다.
+
+
+
+### 배경 바꾸기
+
+![](./resources/18_12.png)
+
+![](./resources/18_13.png)
+
+- 배경을 업로드하고 기존의 하얀 배경을 삭제합니다
+
+
+
+### 스프라이트 만들기
+
+![](./resources/18_14.png)
+
+- 건반 스프라이트를 추가 합니다 (keyboard1, keyboard3)
+
+![](./resources/18_15.png)
+
+- 스프라이트 모양에서 눌린모양의 건반을 추가 합니다 (keyboard2, keyboard4)
+
+
+
+### 스프라이트 이름 지정하기
+
+![](./resources/18_16.png)
+
+![](./resources/18_17.PNG)
+
+- 복사하기와 이름바꾸기로 스프라이트를 위와 같이 지정합니다
+
+
+
+### 스프라이트 동작 지정하기
+
+![](./resources/18_18.png)
+![](./resources/18_19.png)
+![](./resources/18_20.png)
+![](./resources/18_21.png)
+![](./resources/18_22.png)
+![](./resources/18_23.png)
+![](./resources/18_24.png)
+![](./resources/18_25.png)
+![](./resources/18_26.png)
+![](./resources/18_27.png)
+![](./resources/18_29.png)
+![](./resources/18_30.png)
+![](./resources/18_31.png)
+
+- 알맞은 블럭을 사용하여 각 스프라이트의 동작을 지정합니다
+
+
+
+## 더 나아가기
+
+- 깃발을 눌렀을때 노래가 나오도록 만들어 봅시다
+
+- 노래가 나올때 학교배경이 나오도록 만들어 봅시다
+- 다양한 기능을 추가해 봅시다
+
+[프로젝트 예제](https://scratch.mit.edu/projects/260312444/)
 
 
 
