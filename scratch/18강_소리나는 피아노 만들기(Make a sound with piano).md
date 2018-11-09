@@ -24,7 +24,7 @@
 
 ![](https://firebasestorage.googleapis.com/v0/b/realcoding-4ca98.appspot.com/o/img%2Fslide%2F784%2Fid-11.png?alt=media&token=01fae495-8834-4ad1-825e-71143a0fd4ef)
 
-- [18강 재료](/scratch/18강_소리나는_피아노_만들기_재료.zip)
+- [18강 재료](https://github.com/su-bin/passion/raw/master/scratch/18%EA%B0%95_%EC%86%8C%EB%A6%AC%EB%82%98%EB%8A%94_%ED%94%BC%EC%95%84%EB%85%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0_%EC%9E%AC%EB%A3%8C.zip)
 
 [건반 알아보기]
 
