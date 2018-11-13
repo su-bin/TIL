@@ -3,7 +3,9 @@
 
 - [portfolio](/portfolio/portfolio.pdf)
 
-# 와이즈만영재교육 수업자료
+
+# 초등교육
+
 - [스크래치](/scratch)
 
 
@@ -15,7 +17,6 @@
 - [CHAPTER-03-연산자](/java_study/chapter03)
 - [CHAPTER-04-조건문과-반복문](/java_study/chapter04)
 - [CHAPTER-05-참조-타입](/java_study/chapter05)
-
 
 
 # 프로그래머스 문제 풀이
