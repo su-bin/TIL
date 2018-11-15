@@ -13,11 +13,10 @@
 ## 수업목표
 
 - 다양한 소리블럭을 사용해봅시다
-- 형태 팔레트의 블럭들을 이용하여 스프라이트의 위치를 조정해봅시다
 
 ## 재료준비
 
-
+[재료 다운로드](https://github.com/su-bin/passion/raw/master/scratch/18_Make_a_sound_with_piano.zip)
 
 [건반 알아보기]
 
