@@ -34,21 +34,21 @@
 
 - 스프라이트의 위치를 지정합니다
 
-![](./resources/motion-go_to.PNG)
+![](./resources/motion-go_to.png)
 
 #### 정해진 시간동안 좌표로 이동하기(*1* 초 동안 x:*200* y:*50* (으)로 이동하기)
 
 - 지정한 시간동안 지정한 위치로 스프라이트가 이동합니다
 
-![](./resources/motion-glide.PNG)
+![](./resources/motion-glide.png)
 
 #### 좌표 확인하기 (x좌표, y좌표)
 
 - 무대에 x좌표와 y좌표가 표시됩니다
 
-![](./resources/motion-position1.PNG)
+![](./resources/motion-position1.png)
 
-![](./resources/motion-position2.PNG)
+![](./resources/motion-position2.png)
 
 
 
@@ -58,7 +58,7 @@
 
 - 스프라이트를 제일 앞(맨뒤)으로 이동합니다
 
-![](./resources/looks-go_to.PNG)
+![](./resources/looks-go_to.png)
 
 #### 보내기 (*뒤로* *1* 단계 보내기)
 
@@ -100,20 +100,20 @@
 - 조건이 참(사실, true)이면 조건문 안의 블럭을 실행합니다 
 
 
-![](./resources/control-if.PNG)
+![](./resources/control-if.png)
 
 #### 무한 반복하기
 
 - 무한 반복하기 안의 블럭을 계속해서 반복합니다
 
-![](./resources/control-forever.PNG)
+![](./resources/control-forever.png)
 
 #### 기다리기 (*3* 초 기다리기)
 
 - 지정한 시간동안 기다립니다
 
 
-![](./resources/control-wait.PNG)
+![](./resources/control-wait.png)
 
 #### 복제 블록 (*나 자신* 복제하기 / 복제되었을 때 / 이 복제본 삭제하기)
 
@@ -121,7 +121,7 @@
 - 복제되었을 때 : 복제되었을 때의 동작을 지정합니다
 - 이 복제본 삭제하기 : 복제된 스프라이트를 삭제합니다
 
-![](./resources/control-copy.PNG)
+![](./resources/control-copy.png)
 
 
 
