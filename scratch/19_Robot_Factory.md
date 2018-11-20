@@ -12,7 +12,7 @@
 
 ## 수업목표
 
-- 다양한 블록을 이용하여 복제 로봇을 만들어 봅시다.
+- 다양한 블록을 이용하여 로봇 복제 기계를 만들어 봅시다.
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-[재료 다운로드]()
+[재료 다운로드](https://github.com/su-bin/passion/raw/master/scratch/project_resources/19_Robot_factory.zip)
 
 
 
