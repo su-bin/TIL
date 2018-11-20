@@ -163,47 +163,58 @@
 
 ### 배경 바꾸기
 
-![](./resources/.png)
+![](./resources/background_upload.png)
 
-![](./resources/.png)
+![](./resources/19_1.png)
+
+![](./resources/19_2.png)
 
 - 배경을 업로드하고 기존의 하얀 배경을 삭제합니다
+
+![](./resources/19_3.png)
+
+- 좌측 상단 배경탭에서 다른 배경을 추가해 줍니다 (Background2, Background3)
 
 
 
 ### 스프라이트 만들기
 
-![](./resources/.png)
+![](./resources/19_5.png)
 
-- 건반 스프라이트를 추가 합니다 (keyboard1, keyboard3)
+- 로봇 스프라이트를 추가합니다
 
-![](./resources/.png)
+![](./resources/19_6.png)
 
-- 스프라이트 모양에서 눌린모양의 건반을 추가 합니다 (keyboard2, keyboard4)
+- 스프라이트 모양에서 다른 색의 로봇을 추가 합니다 (robot2, robot3)
 
+  ! 크기가 너무 크다면 스프라이트를 클릭하고 조절해주세요
 
+![](./resources/19_7.png)
 
-### 스프라이트 이름 지정하기
+- 기계 스프라이트를 추가합니다 (factory1)
 
-![](./resources/.png)
+![](./resources/19_8.png)
 
-![](./resources/.PNG)
-
-- 복사하기와 이름바꾸기로 스프라이트를 위와 같이 지정합니다
+- 스프라이트 모양에서 factory2를 추가 합니다
 
 
 
 ### 스프라이트 동작 지정하기
 
-![](./resources/.png)
+![](./resources/19_9.png)
 
-- 알맞은 블럭을 사용하여 각 스프라이트의 동작을 지정합니다
+![](./resources/19_10.png)
+
+![](./resources/19_11.png)
+
+- 알맞은 블럭을 사용하여 배경과 각 스프라이트의 동작을 지정합니다
 
 
 
 ## 더 나아가기
 
-- 
+- 로봇을 다양하게 꾸며봅시다
+- 로봇의 수를 늘려 봅시다
+- 로봇이 순서대로 나오도록 해봅시다
 
-
-[프로젝트 예제](https://scratch.mit.edu/projects/)
+[프로젝트 예제](https://scratch.mit.edu/projects/261631233/)

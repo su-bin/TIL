@@ -16,7 +16,7 @@
 
 ## 재료준비
 
-[재료 다운로드](https://github.com/su-bin/passion/raw/master/scratch/18_Make_a_sound_with_piano.zip)
+[재료 다운로드](https://github.com/su-bin/passion/raw/master/scratch/project_resources/18_Make_a_sound_with_piano.zip)
 
 [건반 알아보기]
 
