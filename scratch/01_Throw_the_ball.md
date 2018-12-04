@@ -20,7 +20,7 @@
 
 - 스프라이트의 위치를 지정합니다
 
-![](./resources/motion-go_to.PNG)
+![](./resources/motion-go_to.png)
 
 #### 정해진 시간동안 좌표로 이동하기(*1* 초 동안 x:*200* y:*50* (으)로 이동하기)
 
