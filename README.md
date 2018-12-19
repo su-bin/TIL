@@ -1,13 +1,28 @@
+# Today I Learned
 
-# 포트폴리오
+- 일단은 꾸준함을 목표로 작성한다
+- 분기별로 포트폴리오를 업데이트 한다
+- 교육자료들 꾸준히 만들어 업데이트 한다
+
+## 나의 다짐들
+
+- 인생의 모토를 지키며 살아가자 '사랑하며 살자'
+- 꾸준한 사람이 되자
+- 재밌는 사람이 되자
+- 좋은 선생님이 되자
+- 공부를 멈추지 말자
+
+[namjunemy](https://github.com/namjunemy)의 github를 보고 기록을 시작하였습니다
+*'기억은 기록을 이길 수 없다.' 라는말은 아주 멋진말이라고 생각한다*
+
+## 포트폴리오
 
 - [portfolio](/portfolio/portfolio.pdf)
 
 
+## 초등교육
 
-# 초등교육
-
-## [스크래치](/scratch)
+### [스크래치](/scratch)
 
 - [Throw_the_ball](/scratch/01_Throw_the_ball.md)
 - [Make_a_sound_with_piano](/scratch/18_Make_a_sound_with_piano.md)
@@ -16,16 +31,14 @@
 - [space_adventure](/scratch/21_space_adventure.md)
 
 
-
-## [리얼코딩](/realcoding)
+### [리얼코딩](/realcoding)
 
 - [challenge01_자기소개](/realcoding/challenge01.pdf)
 - [challenge02_색상영어사전](/realcoding/challenge02.pdf)
 - [challenge03_랜덤 계산기](/realcoding/challenge03.pdf)
 
 
-
-# 이것이 자바다 개인 학습
+## 이것이 자바다 개인 학습
 
 기본을 다시한번 정리하면서 복습합니다
 
@@ -36,14 +49,12 @@
 - [CHAPTER-05-참조-타입](/java_study/chapter05)
 
 
-
-# 프로그래머스 문제 풀이
+## 프로그래머스 문제 풀이
 
 - [Level1](/programmers_algorithm/Level1)
 - [Level2](/programmers_algorithm/Level2)
 
 
-
-# Today's
+## Today's
 
 - [2018.12.19](/Today's/2018.12.19.md)
