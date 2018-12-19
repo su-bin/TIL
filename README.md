@@ -9,8 +9,8 @@
 
 ## [스크래치](/scratch)
 
-- [Throw_the_ball](/[scratch](https://github.com/su-bin/passion/tree/master/scratch)/01_Throw_the_ball.md)
-- [Make_a_sound_with_piano.md](/[scratch](https://github.com/su-bin/passion/tree/master/scratch)/18_Make_a_sound_with_piano.md)
+- [Throw_the_ball](/scratch/01_Throw_the_ball.md)
+- [Make_a_sound_with_piano](/scratch/18_Make_a_sound_with_piano.md)
 - [Robot_Factory](/scratch/19_Robot_Factory.md)
 - [Balloon_clicker](/scratch/20_Balloon_clicker.md)
 - [space_adventure](/scratch/21_space_adventure.md)
@@ -19,9 +19,9 @@
 
 ## [리얼코딩](/realcoding)
 
-- [challenge01_자기소개](/[realcoding](https://github.com/su-bin/passion/tree/master/realcoding)/challenge01.pdf)
-- [challenge02_색상영어사전](/[realcoding](https://github.com/su-bin/passion/tree/master/realcoding)/challenge02.pdf)
-- [challenge03_랜덤 계산기](/[realcoding](https://github.com/su-bin/passion/tree/master/realcoding)/challenge03.pdf)
+- [challenge01_자기소개](/realcoding/challenge01.pdf)
+- [challenge02_색상영어사전](/realcoding/challenge02.pdf)
+- [challenge03_랜덤 계산기](/realcoding/challenge03.pdf)
 
 
 
