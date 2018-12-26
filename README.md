@@ -11,6 +11,7 @@
 - 재밌는 사람이 되자
 - 좋은 선생님이 되자
 - 공부를 멈추지 말자
+- 워라벨을 중시하자 
 
 [namjunemy](https://github.com/namjunemy)의 github를 보고 기록을 시작하였습니다
 *'기억은 기록을 이길 수 없다.' 라는말은 아주 멋진말이라고 생각한다*
@@ -35,7 +36,8 @@
 
 - [challenge01_자기소개](/realcoding/challenge01.pdf)
 - [challenge02_색상영어사전](/realcoding/challenge02.pdf)
-- [challenge03_랜덤 계산기](/realcoding/challenge03.pdf)
+- [challenge03_나만의 퀴즈](/realcoding/challenge03.pdf)
+- [challenge04_랜덤 계산기](/realcoding/challenge04.pdf)
 
 
 ## 이것이 자바다 개인 학습
@@ -58,3 +60,6 @@
 ## Today's
 
 - [2018.12.19](/Today's/2018.12.19.md)
+- [2018.12.20](/Today's/2018.12.20.md)
+- [2018.12.25](/Today's/2018.12.25.md)
+- [2018.12.26](/Today's/2018.12.26.md)
