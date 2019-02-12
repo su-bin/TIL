@@ -20,6 +20,10 @@
 
 - [portfolio](/portfolio/portfolio.pdf)
 
+## Python study
+
+- [](/python/.md)
+
 
 ## 초등교육
 
@@ -55,11 +59,3 @@
 
 - [Level1](/programmers_algorithm/Level1)
 - [Level2](/programmers_algorithm/Level2)
-
-
-## Today's
-
-- [2018.12.19](/Today's/2018.12.19.md)
-- [2018.12.20](/Today's/2018.12.20.md)
-- [2018.12.25](/Today's/2018.12.25.md)
-- [2018.12.26](/Today's/2018.12.26.md)
